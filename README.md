@@ -94,3 +94,6 @@
       </tbody>
   </table>
   </div>
+<br />
+   <img src="http://img.wennermedia.com/social/jkaplan-1401x788-fc436846-1e6a-4753-bf50-c3b74f6d6871.png" />
+  <h4>This is Jeff Kaplan, the community director for Overwatch.  He is in charge of communicating all logistical information, patches, events, etc. to the playerbase.  Kaplan has been widely praised for his open and frequent communication to the playerbase, a practice which is rare in the games industry.  A game as popular as Overwatch, there are many moving parts at Blizzard's HQ, with over 100 employees.  Kaplan is able to condense all of the machinations that go on in to a video about once a month.</h4>
