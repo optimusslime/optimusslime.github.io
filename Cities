@@ -1,0 +1,76 @@
+<head>
+<h1>OWL Cities/Teams</h1>
+<img src="https://www.pcgamesn.com/sites/default/files/overwatch%20league%20cities.jpg" />
+</head>
+<div>
+<table>
+    <thead>
+      <tr>
+        <th>City</th>
+        <th>Investor</th>
+        <th>Organization</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Boston, MA</th>
+        <td>Robert Kraft</td>
+        <td>Kraft Group</td>
+      </tr>
+      <tr>
+        <th>New York City, NY</th>
+        <td>Jeff Wilpon</td>
+        <td>SterlingVC</td>
+      </tr>
+      <tr>
+        <th>London, UK</th>
+        <td>Jack Etienne</td>
+        <td>Cloud9</td>
+      </tr>
+      <tr>
+        <th>Los Angeles, CA</th>
+        <td>Noah Whinston</td>
+        <td>Immortals</td>
+      </tr>
+      <tr>
+        <th>Los Angeles, CA (2nd team)</th>
+        <td>Stan and Josh Kroenke</td>
+        <td>Kroenke Sports & Entertainment</td>
+      </tr>
+      <tr>
+        <th>Miami-Orlando, FL</th>
+        <td>Ben Spoont</td>
+        <td>Misfits</td>
+      </tr>
+      <tr>
+        <th>San Francisco, CA</th>
+        <td>Andy Miller</td>
+        <td>NRG Esports</td>
+      </tr>
+      <tr>
+        <th>Dallas, TX</th>
+        <td>EnvyUs Gaming</td>
+        <td>Hersh Interactive Group</td>
+      </tr>
+      <tr>
+        <th>Houston, TX</th>
+        <td>Neil Leibman</td>
+        <td>OpTic Gaming</td>
+      </tr>
+      <tr>
+        <th>Philadephia, PA</th>
+        <td>Comcast Spectacor</td>
+        <td>Comcast<td>
+      </tr>
+      <tr>
+        <th>Shanghai, CH</th>
+        <td>NetEase</td>
+        <td>N/A</td>
+      </tr>
+      <tr>
+        <th>Seoul, SK</th>
+        <td>Kevin Chou, Kent Wakeford, and Phillip Hyun</td>
+        <td>N/A</td>
+        </tr>
+      </tbody>
+  </table>
