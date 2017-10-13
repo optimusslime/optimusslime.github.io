@@ -9,7 +9,7 @@
   <h2>Links</h2>
 <ul>
   <li><a href="https://overwatchleague.com/en-us/">The Official OWL website</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Overwatch_League#Teams">List of Cities/Teams</a></li>
+  <li><a href="Cities.html">List of Cities/Teams</a></li>
   <li><a href="https://www.over.gg">Over.gg</a> (all encompassing OWL blog website)</li>
   </ul>
   </div>
