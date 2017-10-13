@@ -1,5 +1,5 @@
 <head>
-  <h4 text-align: center;>Sameer Karim</h4>
+  <h4>Sameer Karim</h4>
   <img src="https://cdn2.vox-cdn.com/thumbor/RShOAkEkGF_zSp0a4aMh3jOqpmQ=/0x1080/volume-assets.voxmedia.com/production/067e080d8cc7a3b23a5fc0effe0fef0f/vlcsnap-2016-11-04-14h34m55s401.png" />
   <h1>Overwatch League: A Beginner's Guide</h1>
   <h3>Welcome to the Competitive World of Overwatch</h3>
@@ -13,6 +13,5 @@
   <li><a href="https://www.over.gg">Over.gg</a> (all encompassing OWL blog website)</li>
   </div>
   <div>
-        <video src=https://www.youtube.com/watch?v=OFHpK627XkI width=320 height=240 controls>
-    </video>
+     <iframe width="1280" height="720" src="https://www.youtube.com/embed/OFHpK627XkI" frameborder="0" allowfullscreen></iframe>
   </div>
