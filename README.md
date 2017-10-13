@@ -102,4 +102,15 @@
   <img src="http://img.wennermedia.com/article-leads-horizontal/blizzard_arena_los_angeles_-_stage3-698ba56e-205d-447a-b652-f79a029cf0b5.jpg" />
     <img src="http://img.wennermedia.com/620-width/blizzard_arena_los_angeles_-_lobby_11-d1d6f427-95d0-4af0-990b-29fb16205436.jpg" />
     <img src="http://img.wennermedia.com/620-width/blizzard_arena_los_angeles_-_seating8-eda3f166-f745-4662-a0dd-6edf7da0891b.jpg" />
-  <h4>Blizzards newly constructed arena located in Burbank was completed in October of 2017.  All teams will play at this arena for Season 1 of Overwatch League.</h4>
+  <h4><p Blizzards newly constructed arena located in Burbank was completed in October of 2017.  All teams will play at this arena for Season 1 of Overwatch League.  OWL preseason begins Decemeber 6, 2017 and the regular season starts in January.  The season will play for about 6 months, with playoffs beginning in July.> </p></h4>
+  <div>
+    <h3>Information on OWL has been limited, as the season is still months away.  Blizzcon, a convention Blizzard holds in November, is where all information will be released with full rosters, schedule, etc.  Thank you for visiting the site and learning more about the world of esports!</h3>
+  </div>
+  <div>
+    <h2>Social</h2>
+    <ul>
+      <li><a href="https://twitter.com/overwatchleague?ref_src=twsrc%5Eappleosx%7Ctwcamp%5Esafari%7Ctwgr%5Eprofile">Twitter</a></li>
+      <li><a href="https://www.instagram.com/OverwatchLeague/">Instagram</a></li>
+      <li><a href="https://www.facebook.com/overwatchleague/">Facebook</a></li>
+    </ul>
+  </div>
