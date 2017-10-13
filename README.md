@@ -11,6 +11,7 @@
   <li><a href="https://overwatchleague.com/en-us/">The Official OWL website</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Overwatch_League#Teams">List of Cities/Teams</a></li>
   <li><a href="https://www.over.gg">Over.gg</a> (all encompassing OWL blog website)</li>
+  </ul>
   </div>
   <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OFHpK627XkI" frameborder="0" allowfullscreen>
