@@ -79,7 +79,7 @@
       <tr>
         <th>Philadephia, PA</th>
         <td>Comcast Spectacor</td>
-        <td>Comcast<td>
+        <td>Comcast</td>
       </tr>
       <tr>
         <th>Shanghai, CH</th>
@@ -100,6 +100,6 @@
   <h4>This is Jeff Kaplan, the community director for Overwatch.  He is in charge of communicating all logistical information, patches, events, etc. to the playerbase.  Kaplan has been widely praised for his open and frequent communication to the playerbase, a practice which is rare in the games industry.  A game as popular as Overwatch, there are many moving parts at Blizzard's HQ, with over 100 employees.  Kaplan is able to condense all of the machinations that go on in to a video about once a month.</h4>
 <div>
   <img src="http://img.wennermedia.com/article-leads-horizontal/blizzard_arena_los_angeles_-_stage3-698ba56e-205d-447a-b652-f79a029cf0b5.jpg" />
-  <h4>Blizzards newly constructed arena located in Burbank was completed in October of 2017.  All teams will play at this arena for Season 1 of Overwatch League.  
     <img src="http://img.wennermedia.com/620-width/blizzard_arena_los_angeles_-_lobby_11-d1d6f427-95d0-4af0-990b-29fb16205436.jpg" />
     <img src="http://img.wennermedia.com/620-width/blizzard_arena_los_angeles_-_seating8-eda3f166-f745-4662-a0dd-6edf7da0891b.jpg" />
+  <h4>Blizzards newly constructed arena located in Burbank was completed in October of 2017.  All teams will play at this arena for Season 1 of Overwatch League.</h4>
